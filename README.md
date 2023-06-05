@@ -114,11 +114,31 @@ endmodule
 
 UP COUNTER 
 
-f6f7e3ba-bd9a-4848-8429-7ce55bc39891
+![242660671-76928032-31f8-4e83-8fb9-22c954f8a4c6](https://github.com/divyavarshiniEEE/Exp-7-Synchornous-counters-/assets/128978058/bf2999c0-6bec-47f6-915f-b636aeda4576)
+
+
 
 DOWN COUNTER
+![242660795-9e1b6f36-edf9-4ed1-a9e5-a330dd469feb](https://github.com/divyavarshiniEEE/Exp-7-Synchornous-counters-/assets/128978058/f9f7346d-aaf2-470e-9547-9c05a71689b3)
 
-b8f64720-e89a-4fd9-8300-6b755b7b3dc7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -126,22 +146,33 @@ b8f64720-e89a-4fd9-8300-6b755b7b3dc7
 
 UP COUNTER
 
-f7293de7-9bef-488d-b908-5cc9ce4c2085
+![242660912-86d2e86c-f278-4c14-9bd7-b6c749a7ecf7](https://github.com/divyavarshiniEEE/Exp-7-Synchornous-counters-/assets/128978058/ba044594-b7e9-4289-9580-cf048d003b85)
+
+
 
 DOWN COUNTER
 
-3d624c45-9c4b-45a1-90c1-055a8e87822d
+![242660959-aeac3ff9-c4b0-4c5c-9d62-cf86b2e3d984](https://github.com/divyavarshiniEEE/Exp-7-Synchornous-counters-/assets/128978058/10d8818b-ae16-4829-88b0-c6586fe01ba8)
+
+
+
 
 
 ### TRUTH TABLE 
 
 UP COUNTER
 
-cb56fc19-6b27-4979-82a7-f54083d28c98
+![243097359-29043292-8693-4128-8a2d-c584a451ed5e](https://github.com/divyavarshiniEEE/Exp-7-Synchornous-counters-/assets/128978058/fe5c6e0f-b1d0-49ba-97fc-a9843ff1e42a)
+
+
+
+
+
 
 DOWN COUNTER
 
-4f11f1b0-7aff-4c55-bd61-a17fed34b244
+![243097385-e1253bba-7624-4f05-960f-4bbe69d99cea](https://github.com/divyavarshiniEEE/Exp-7-Synchornous-counters-/assets/128978058/03ace885-dd9a-47ac-8ecd-392886805052)
+
 
 
 
